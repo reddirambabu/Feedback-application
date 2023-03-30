@@ -1,0 +1,23 @@
+.thankyou-container {
+  width: 95%;
+  padding: 10px;
+  background-color: whitesmoke;
+  border-radius: 12px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.description {
+  font-size: 16;
+  font-weight: 600;
+  color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading {
+  font-size: 26px;
+  font-weight: 600;
+  color: rgb(175, 19, 247);
+  font-family: Arial, Helvetica, sans-serif;
+}
